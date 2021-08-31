@@ -1,4 +1,4 @@
-### Hi, I'm Michael!
+### Hi, I'm Michael!👋
 - I'm a software engineer knowledgeable in JavaScript, Python, React / Redux, Node, Express, Flask, and PostgreSQL. A motivated self-starter with a passion for web development and creating new things. Every day is an opportunity to face and overcome new challenges and obstacles.
 <!--
 **Machaelmus/Machaelmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
